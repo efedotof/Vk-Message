@@ -1,0 +1,7 @@
+input_login = 'email'
+input_password = 'pass'
+input_vhode = 'login_button'
+message_profile = 'profile_message_send'
+vk_url = 'https://vk.com/login'
+text_write = 'im_editable582901155'
+otprav = '/html/body/div[11]/div/div/div[2]/div[2]/div[2]/div/div/div/div/div[1]/div[3]/div[2]/div[4]/div[2]/div[4]/div[1]/button/span[2]'
